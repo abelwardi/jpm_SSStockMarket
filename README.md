@@ -8,11 +8,13 @@ Example Assignment – Super Simple Stock Market
 
 
 To run the program :
+
 run launchSSSM.bat
 
 you need 5 parameters :
 
 stocks.csv
+
 csv file (space separator) contains list of stocks,
 (stock symbol, stock type, last Dividend, fixed Dividend, par Value)
 
@@ -25,8 +27,10 @@ POP COMMON 8 0 100
 ...
 
 trades.csv
+
 csv file (space separator) contains list of trades,
 (stock symbol, timeStamp, quantity, type, price)
+
 timeStamp : the trade datetime = number of seconds elapsed since January 1, 1970
 The file must be sorted by timeStamp for every stock
 
@@ -45,7 +49,9 @@ GIN 1490148508 5000 BUY 1.05
 .....
 
 stockPrices.csv
+
 csv file (space separator) contains list of stock price
+
 (stock symbol, price)
 
 example :
@@ -59,10 +65,12 @@ ALE 2.011
 .....
 
 duration :
+
 to calculate volume weighted stock srice
 360 seconds for example
 
 output stocksSSSM.csv :
+
 csv file (space separator) contains stock results
 
 example :
