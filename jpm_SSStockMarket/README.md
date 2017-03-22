@@ -13,7 +13,7 @@ run launchSSSM.bat
 
 you need 5 parameters :
 
-stocks.csv
+- stocks.csv
 
 csv file (space separator) contains list of stocks,
 
@@ -27,7 +27,7 @@ POP COMMON 8 0 100
 
 ...
 
-trades.csv
+- trades.csv
 
 csv file (space separator) contains list of trades,
 
@@ -51,7 +51,7 @@ GIN 1490148508 5000 BUY 1.05
 
 .....
 
-stockPrices.csv
+- stockPrices.csv
 
 csv file (space separator) contains list of stock price
 
@@ -67,13 +67,13 @@ ALE 2.011
 
 .....
 
-duration :
+- duration :
 
 to calculate volume weighted stock price
 
 360 seconds for example
 
-output stocksSSSM.csv :
+- output stocksSSSM.csv :
 
 csv file (space separator) contains stock results
 
