@@ -19,6 +19,7 @@ csv file (space separator) contains list of stocks,
 example :
 
 TEA COMMON 0 0 100
+
 POP COMMON 8 0 100
 ...
 
