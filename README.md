@@ -32,9 +32,13 @@ The file must be sorted by timeStamp for every stock
 example :
 
 TEA 1490144508 50 SELL 1.25
+
 JOE 1490145508 150 BUY 1.35
+
 POP 1490146508 50 SELL 1.75
+
 TEA 1490147508 550 BUY 1.27
+
 GIN 1490148508 5000 BUY 1.05
 .....
 
@@ -45,7 +49,9 @@ csv file (space separator) contains list of stock price
 example :
 
 TEA 1.25
+
 POP 0.99
+
 ALE 2.011
 .....
 
