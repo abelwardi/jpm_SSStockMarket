@@ -69,7 +69,7 @@ ALE 2.011
 
 duration :
 
-to calculate volume weighted stock srice
+to calculate volume weighted stock price
 
 360 seconds for example
 
