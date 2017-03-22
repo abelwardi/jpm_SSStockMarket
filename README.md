@@ -32,6 +32,7 @@ csv file (space separator) contains list of trades,
 (stock symbol, timeStamp, quantity, type, price)
 
 timeStamp : the trade datetime = number of seconds elapsed since January 1, 1970
+
 The file must be sorted by timeStamp for every stock
 
 example :
